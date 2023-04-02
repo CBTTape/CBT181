@@ -1,0 +1,6 @@
+2023-04-02 22:25:52.777536 - Initialized conversion of CBT181
+2023-04-02 22:25:52.851843 - Received CBT.V504.FILE181.PDS from FILE181.XMI 
+2023-04-02 22:25:52.854595 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE181.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:25:52.855693 - Found @FILE181.txt (text/plain) in CBT.V504.FILE181.PDS, moved to PDS/@FILE181
+2023-04-02 22:25:52.856782 - Found CATLIST.txt (text/plain) in CBT.V504.FILE181.PDS, moved to PDS/CATLIST
+2023-04-02 22:25:52.858098 - Found TAPEMAP.txt (text/plain) in CBT.V504.FILE181.PDS, moved to PDS/TAPEMAP
